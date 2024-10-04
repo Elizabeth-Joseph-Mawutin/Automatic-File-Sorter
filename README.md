@@ -10,6 +10,6 @@ The Automatic File Sorter is a Python script designed to organize files in a spe
 ## File Categories
 The script sorts files into the following default categories:
 
-Images: .tiff
-Text: .txt
-Excel: .xlsx
+- Images: .tiff
+- Text: .txt
+- Excel: .xlsx
